@@ -1,5 +1,5 @@
 # Satis_Dashboard
-Yıldız Teknik Üniversitesi Veri Bilimi Topluluğu "Veri Analizi ve Görselleştirmenin Anahtarı:PowerBI" eğitimi kapsamında kaggle E-Ticaret veri seti ile hazırlanmış bir dashboard projesidir.
+Yıldız Teknik Üniversitesi Veri Bilimi Topluluğu "Veri Analizi ve Görselleştirmenin Anahtarı:PowerBI" eğitimi kapsamında Kaggle E-Ticaret veri seti ile hazırlanmış bir dashboard projesidir.
 
 # Proje Görselleri
 ## Veri Modeli
