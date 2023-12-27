@@ -20,5 +20,5 @@ Yıldız Teknik Üniversitesi Veri Bilimi Topluluğu "Veri Analizi ve Görselle�
 ## Tooltip
 <img src="https://github.com/dilsad-kut/Satis_Dashboard/blob/main/Resimler/Tooltip.png" alt="Tooltip" width="1000" height="600">
 
-
+<img src="https://github.com/dilsad-kut/Satis_Dashboard/blob/main/Resimler/SezonAnalizi_with_Tooltip.png" width="1000" height="600">
 
